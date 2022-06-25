@@ -1,0 +1,23 @@
+CDS
+CD U2, Songs of Innocence, 2014
+SONG 1, The Miracle, 4:15
+SONG 2, Every Breaking Wave, 4:12
+SONG 3, California, 4:00
+SONG 4, Song for Someone, 3:47
+CD Coldplay, Parachutes, 2000
+SONG 1, Don't Panic, 2:17
+SONG 2, Shiver, 5:00
+SONG 3, Spies, 5:19
+SONG 4, Sparks, 3:47
+SONG 5, Yellow, 4:27
+ADDS
+ADD ING Bank, 0:20
+ADD Bol.com, 0:15
+ADD Albert Heijn, 0:30
+ADD Specsavers, 0:15
+ADD Kruidvat, 0:10
+ADD MediaMarkt.nl, 0:20
+ADD KPN, 0:30
+ADD TU Delft, 0:15
+ADD ABN Amro, 0:30
+ADD Rabobank, 0:15
